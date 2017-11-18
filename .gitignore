@@ -1,0 +1,4 @@
+#Ignore Python notebook checkpoints
+*/.ipynb_checkpoints/*
+
+scratch/*
