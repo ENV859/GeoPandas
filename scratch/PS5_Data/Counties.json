@@ -1,0 +1,15 @@
+{
+  "href" : "http://sampleserver1b.arcgisonline.com/arcgisoutput/_ags_map07e689553987492dbc13970696b91687.png", 
+  "width" : 400, 
+  "height" : 400, 
+  "extent" : {
+    "xmin" : -207.682974279982, 
+    "ymin" : -40.6075371681152, 
+    "xmax" : -37.1804225764967, 
+    "ymax" : 129.89501453537, 
+    "spatialReference" : {
+      "wkid" : 4269
+    }
+  }, 
+  "scale" : 179139888.493351
+}
